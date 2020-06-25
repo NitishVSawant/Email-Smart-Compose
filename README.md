@@ -12,6 +12,6 @@ Email Smart Compose is an application developed for assisting in sentence comple
 
 Final.ipynb includes the functions to generate predictions for any given data
 
-Link to the medium article: 
+Link to the medium article: https://medium.com/@menitishsawant/email-smart-compose-assist-in-sentence-completion-b706269da181
 
 Link to the application: http://ec2-18-217-165-22.us-east-2.compute.amazonaws.com:8501/
