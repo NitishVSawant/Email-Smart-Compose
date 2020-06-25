@@ -10,7 +10,7 @@ Email Smart Compose is an application developed for assisting in sentence comple
 
 3_Word_based_Models.ipynb includes Encoder Decoder Model and Encoder Decoder Model with Bahdanau Attention at word level. It also includes the GPT2 model.
 
-Final.ipynb includes the functions to generate predictions for any given data
+Final.ipynb includes the functions to generate predictions for any given data.
 
 Link to the medium article: https://medium.com/@menitishsawant/email-smart-compose-assist-in-sentence-completion-b706269da181
 
